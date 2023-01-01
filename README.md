@@ -3,7 +3,7 @@ I have four projects.
 ---
 1 Notification System via Google
 ---
-I created a system based on Google services to send notifications. This is the kind of notification that websites or youtub use.
+I created a system called "JogThem" based on Google services to send notifications. This is the kind of notification that websites or youtub use.
 It worked, but I haven't deployed it or made it public. I completed this several years ago & have mostly forgotten how it works.
 
 ---
