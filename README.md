@@ -1,4 +1,4 @@
-I have three projects. They may still be marked private.
+I have four projects.
 
 ---
 1 Notification System via Google
@@ -19,6 +19,15 @@ An Arduino controlled sound system which detects control pulses sent by a distan
 The system plays recorded sounds based on which kind of commands are issued.
 
 I am likely to describe 2 & 3 in videos on YouTube at some time.
+
+
+---
+4 Spreadsheet
+---
+
+This is a plan for the future of spreedsheets making use of structured data instead of the conventional 2 dimensional array.
+
+
 
 
 <!---
